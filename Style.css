@@ -1,0 +1,54 @@
+body {
+    background-color: firebrick;
+}
+
+div {
+    border-style: solid;
+    border-width: 15px;
+    border-color:darkgrey;
+    background-color:floralwhite;
+    opacity: 0.97;
+    margin: 10px;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 64px;
+}
+
+h2 {
+    font-size: 48px;
+    text-align: center;
+    background-color: floralwhite;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 24px;
+    text-align: center;
+}
+
+#slogan {
+    margin: 45px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: darkgray;
+    padding: 45px; 
+    font-size: 32px; 
+    color: firebrick;
+    background-color: floralwhite;
+}
+
+#more {
+    display: flex;
+}
+
+img {
+    width: 350px;
+    height: 300px;
+    flex: 30%;
+}
+
+#copyright {
+    text-align: center;
+}
